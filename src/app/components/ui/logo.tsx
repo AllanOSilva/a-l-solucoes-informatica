@@ -6,8 +6,8 @@ export default function Logo(){
         <Image
       src="/logo.jpg"
       alt="Logotipo"
-      width={150}
-      height={150}
+      width={140}
+      height={140}
       className="rounded-full flex"
     />
         </>
