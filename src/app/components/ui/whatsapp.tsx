@@ -6,9 +6,9 @@ export default function Whatsapp(){
         <Image
       src="/whatsapp.jpg"
       alt="whatsapp"
-      width={32}
-      height={32}
-      className="rounded-full flex"
+      width={24}
+      height={24}
+      className="rounded-full"
     />
         </>
     )
