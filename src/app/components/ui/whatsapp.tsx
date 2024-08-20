@@ -8,7 +8,7 @@ export default function Whatsapp(){
       alt="whatsapp"
       width={24}
       height={24}
-      className="rounded-full"
+      className="rounded-full ml-10"
     />
         </>
     )

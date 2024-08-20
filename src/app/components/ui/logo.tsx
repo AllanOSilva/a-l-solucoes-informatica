@@ -8,7 +8,7 @@ export default function Logo(){
       alt="Logotipo"
       width={140}
       height={140}
-      className="rounded-full flex  pr-px mr-5"
+      className="rounded-full flex  pr-px mr-7"
     />
         </>
     )
